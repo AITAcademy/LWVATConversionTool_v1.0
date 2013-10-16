@@ -28,4 +28,4 @@ This C program allows the user to convert measurement of length, weight, volume,
 
 
 SHOUT OUTS and SPECIAL THANKS TO:
-Academy of Intelligent Technologists (AIT), Marco, Scot, Maximuns, Inefable
+Academy of Intelligent Technologists (AIT), Marco, Scot, Casp3r, Dave, Maximuns, Inefable, 
